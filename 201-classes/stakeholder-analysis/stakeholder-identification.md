@@ -1,9 +1,9 @@
 ---
+icon: user-magnifying-glass
 description: >-
   By asking these questions, you'll create a comprehensive list of stakeholders
   and understand their roles and interests, setting a strong foundation for
   effective engagement and communication.
-icon: user-magnifying-glass
 ---
 
 # Stakeholder Identification
@@ -30,7 +30,7 @@ These questions will help you build an initial list of potential stakeholders to
 
 <details>
 
-<summary><strong>Who has an interest in the success or failure of the project?</strong></summary>
+<summary>Who has an interest in the success or failure of the project?</summary>
 
 Consider those who are not directly affected but who have a vested interest in the project's outcome. This could include people who support or oppose the project for various reasons.
 
@@ -38,7 +38,7 @@ Consider those who are not directly affected but who have a vested interest in t
 
 <details>
 
-<summary><strong>Who needs to be informed about the project?</strong></summary>
+<summary>Who needs to be informed about the project?</summary>
 
 Identify individuals or groups who must be kept in the loop, even if they are not actively participating in the project. This could include higher-level decision-makers, regulatory bodies, or community members.
 
@@ -46,7 +46,7 @@ Identify individuals or groups who must be kept in the loop, even if they are no
 
 <details>
 
-<summary><strong>Who will be directly affected by the project’s outcomes?</strong></summary>
+<summary>Who will be directly affected by the project’s outcomes?</summary>
 
 Think about individuals or groups who will see a direct impact from the project's results. Are there people whose work, investment, or daily routines might change because of what you’re doing?
 
@@ -58,7 +58,7 @@ Once you have a preliminary list, it’s time to refine it by digging deeper. Cl
 
 <details>
 
-<summary><strong>What role does each stakeholder play in relation to the project?</strong></summary>
+<summary>What role does each stakeholder play in relation to the project?</summary>
 
 Understand whether each stakeholder is an internal member shaping the community from within or an external player influencing from the outside. Recognise their unique position and potential impact—whether they are decision-makers, influencers, or those affected by the project's outcomes—so you can tailor your approach to engage them effectively.
 

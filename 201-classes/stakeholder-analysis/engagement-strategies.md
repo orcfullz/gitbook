@@ -1,9 +1,9 @@
 ---
+icon: bullhorn
 description: >-
   Engagement strategies are tailored approaches to interact with different
   stakeholder groups based on their unique interests, concerns, and levels of
   influence.
-icon: bullhorn
 ---
 
 # Engagement Strategies
@@ -16,7 +16,7 @@ icon: bullhorn
 
 <details>
 
-<summary><strong>What are the key interests or concerns of each stakeholder group?</strong></summary>
+<summary>What are the key interests or concerns of each stakeholder group?</summary>
 
 Consider what each group cares about most—are they focused on project outcomes, compliance, financial returns, or community impact?
 
@@ -24,7 +24,7 @@ Consider what each group cares about most—are they focused on project outcomes
 
 <details>
 
-<summary><strong>How can I best communicate with each stakeholder group?</strong></summary>
+<summary>How can I best communicate with each stakeholder group?</summary>
 
 Consider what each group cares about most—are they focused on project outcomes, compliance, financial returns, or community impact?
 

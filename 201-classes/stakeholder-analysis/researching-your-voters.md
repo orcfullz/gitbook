@@ -48,7 +48,7 @@ _First Vote: April 3, 2023_
 
 <details>
 
-<summary><mark style="color:blue;"><strong>Direct Voters</strong>: Token holders who choose to vote directly on proposals.</mark></summary>
+<summary><mark style="color:blue;">Direct Voters: Token holders who choose to vote directly on proposals.</mark></summary>
 
 Direct Voters in the ApeCoin DAO are individual token holders who actively participate in governance by voting directly on proposals. They help shape the direction of the DAO by evaluating and supporting initiatives that align with their values, interests, or investment strategies. Through their engagement, direct voters ensure that decisions reflect the broader community's preferences and priorities.
 
@@ -76,7 +76,7 @@ Additional Information: [The Bored Ape Gazette](https://www.theboredapegazette.c
 
 <details>
 
-<summary><mark style="color:blue;"><strong>Interest Groups</strong>: Sub-communities within the DAO</mark></summary>
+<summary><mark style="color:blue;">Interest Groups: Sub-communities within the DAO</mark></summary>
 
 Interest groups within the ApeCoin DAO focus on advancing the ecosystem through diverse initiatives like technical development, strategic investments, and community engagement. These groups ensure the growth and utility of ApeCoin across Web3 and the metaverse by driving innovation, improving governance, and fostering active participation. Together, they create a collaborative environment that supports decentralised governance and ecosystem expansion.
 

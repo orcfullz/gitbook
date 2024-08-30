@@ -1,12 +1,16 @@
+---
+icon: book-open-cover
+---
+
 # Researching Your Voters
 
 To maximise support for your AIPs (Ape Improvement Proposals), it's crucial to thoroughly research and understand the individuals and groups who will be voting. This involves observing voting patterns, understanding delegate behaviours, and crafting targeted engagement strategies that resonate with your potential supporters.
 
-<table data-card-size="large" data-view="cards"><thead><tr><th>Key Steps	</th><th>Description</th></tr></thead><tbody><tr><td>Identify the Key Voter Groups</td><td>List all potential voter groups within the ApeCoin DAO: Delegates, Direct Voters, and Interest Groups (e.g., developers, investors, content creators).</td></tr><tr><td>Analyse Voting Behaviour and Patterns</td><td>Review past voting records, understand motivations, and observe discussions in public forums to gauge opinions and sentiment.</td></tr><tr><td>Map Out Potential Supporters</td><td>Create a matrix or tracking sheet to map out potential supporters, noting voting history, interests, and relationships.</td></tr><tr><td>Utilise Publicly Available Resources</td><td>Use resources like the ApeCoin Delegates List to identify active delegates and regularly check for updates as the landscape changes.</td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th>Key Steps	</th><th>Description</th></tr></thead><tbody><tr><td><strong>Identify the Key Voter Groups</strong></td><td>List all potential voter groups within the ApeCoin DAO: Delegates, Direct Voters, and Interest Groups (e.g., developers, investors, content creators).</td></tr><tr><td><strong>Analyse Voting Behaviour and Patterns</strong></td><td>Review past voting records, understand motivations, and observe discussions in public forums to gauge opinions and sentiment.</td></tr><tr><td><strong>Map Out Potential Supporters</strong></td><td>Create a matrix or tracking sheet to map out potential supporters, noting voting history, interests, and relationships.</td></tr><tr><td><strong>Utilise Publicly Available Resources</strong></td><td>Use resources like the ApeCoin Delegates List to identify active delegates and regularly check for updates as the landscape changes.</td></tr></tbody></table>
 
 <details>
 
-<summary>Delegates: Community members entrusted with the voting power of others.</summary>
+<summary><mark style="color:blue;">Delegates: Community members entrusted with the voting power of others.</mark></summary>
 
 Delegates are members who are entrusted with voting power from other token holders to represent their interests in the DAO's governance. They play a crucial role in driving informed decision-making by researching, discussing, and voting on proposals on behalf of the community. Delegates help maintain active governance participation, providing a structured approach to handling complex issues and guiding the ApeCoin ecosystem's growth.
 
@@ -44,7 +48,7 @@ _First Vote: April 3, 2023_
 
 <details>
 
-<summary><strong>Direct Voters</strong>: Token holders who choose to vote directly on proposals.</summary>
+<summary><mark style="color:blue;"><strong>Direct Voters</strong>: Token holders who choose to vote directly on proposals.</mark></summary>
 
 Direct Voters in the ApeCoin DAO are individual token holders who actively participate in governance by voting directly on proposals. They help shape the direction of the DAO by evaluating and supporting initiatives that align with their values, interests, or investment strategies. Through their engagement, direct voters ensure that decisions reflect the broader community's preferences and priorities.
 
@@ -72,7 +76,7 @@ Additional Information: [The Bored Ape Gazette](https://www.theboredapegazette.c
 
 <details>
 
-<summary><strong>Interest Groups</strong>: Sub-communities within the DAO</summary>
+<summary><mark style="color:blue;"><strong>Interest Groups</strong>: Sub-communities within the DAO</mark></summary>
 
 Interest groups within the ApeCoin DAO focus on advancing the ecosystem through diverse initiatives like technical development, strategic investments, and community engagement. These groups ensure the growth and utility of ApeCoin across Web3 and the metaverse by driving innovation, improving governance, and fostering active participation. Together, they create a collaborative environment that supports decentralised governance and ecosystem expansion.
 
@@ -112,18 +116,22 @@ Some examples as of 30/10/2024
 
 </details>
 
-**Focusing on Delegates**
+## **Focusing on Delegates**
 
 Delegates play a crucial role in ApeCoin DAO governance as they vote on behalf of other token holders. Understanding how to engage with and convince these delegates can significantly impact the outcome of your AIP.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th></tr></thead><tbody><tr><td><strong>Review the Delegate List</strong></td><td>Start with the ApeCoin Delegates List to identify who the delegates are, their voting power, and any statements they’ve made.</td></tr><tr><td><strong>Understand Delegate Profiles</strong></td><td>Note which delegates align with your proposal’s goals or who have previously supported similar initiatives.</td></tr><tr><td><strong>Leverage AIP Coaches</strong></td><td>Engage with AIP Coaches to gain insights into delegates' priorities, concerns, and voting tendencies.</td></tr><tr><td><strong>Observe Delegate Communication</strong></td><td>Follow delegates' participation in community discussions on Twitter/X Spaces, Discord, or the ApeCoinDAO forum.</td></tr></tbody></table>
 
-**Strategies to Convince Delegates**
+### **Strategies to Convince Delegates**
+
+Develop a targeted approach to winning over delegates by understanding their priorities, building trust, and positioning your AIP in a way that resonates with their values. Use these strategies to engage effectively, align your goals, and transform delegates from neutral observers into enthusiastic advocates for your proposal.
 
 <table data-view="cards"><thead><tr><th>Strategies</th><th>Description</th></tr></thead><tbody><tr><td><strong>Build Direct Relationships</strong></td><td>Reach out directly through community channels to discuss your AIP, addressing specific interests or concerns of delegates.</td></tr><tr><td><strong>Tailor Your Messaging</strong></td><td>Craft messages that resonate with delegates' known priorities, such as enhancing governance, ecosystem improvement, or financial benefits.</td></tr><tr><td><strong>Engage in Dialogue</strong></td><td>Participate in community calls, forums, and Twitter Spaces to position your proposal effectively, answer questions, and build trust.</td></tr></tbody></table>
 
 **Setting Up Your Research "War Room"**
 
-<table data-view="cards"><thead><tr><th>Step</th><th>Action</th></tr></thead><tbody><tr><td><strong>Create a Research Document</strong></td><td>Track findings about potential voters, including delegations, voting behaviours, and key interests.</td></tr><tr><td><strong>Identify Influential Delegates and Voters</strong></td><td>Focus on those with significant voting power or influence within the community.</td></tr><tr><td><strong>Analyze Voting Patterns and Trends</strong></td><td>Observe repeated behaviours or preferences that could indicate support for your AIP.</td></tr><tr><td><strong>Shortlist Potential Supporters</strong></td><td>Prioritise those most likely to back your proposal based on your analysis.</td></tr><tr><td><strong>Update Your Content and Engagement Plan</strong></td><td>Adapt your messaging to appeal specifically to the delegates and voters you aim to convince.</td></tr><tr><td><strong>Actively Engage</strong></td><td>Join relevant community spaces, participate in discussions, and build alliances to rally support for your AIP.</td></tr></tbody></table>
+Create a dedicated space to gather and analyze insights, track voting behaviors, and refine your engagement tactics. Your "War Room" is where strategy meets data, equipping you with the information and tools needed to make informed decisions, adapt quickly, and maximise your proposal's impact within the DAO.
 
-By thoroughly researching your potential voters and strategically engaging with key delegates, you can build a robust foundation of support and enhance the likelihood of your AIP’s success within the ApeCoin DAO.
+<table data-view="cards"><thead><tr><th>Step</th><th>Action</th></tr></thead><tbody><tr><td><strong>Create a Research Document</strong></td><td>Track findings about potential voters, including delegations, voting behaviours, and key interests.</td></tr><tr><td><strong>Identify Influential Delegates and Voters</strong></td><td>Focus on those with significant voting power or influence within the community.</td></tr><tr><td><strong>Analyse Voting Patterns and Trends</strong></td><td>Observe repeated behaviours or preferences that could indicate support for your AIP.</td></tr><tr><td><strong>Shortlist Potential Supporters</strong></td><td>Prioritise those most likely to back your proposal based on your analysis.</td></tr><tr><td><strong>Update Your Content and Engagement Plan</strong></td><td>Adapt your messaging to appeal specifically to the delegates and voters you aim to convince.</td></tr><tr><td><strong>Actively Engage</strong></td><td>Join relevant community spaces, participate in discussions, and build alliances to rally support for your AIP.</td></tr></tbody></table>
+
+### By thoroughly researching your potential voters and strategically engaging with key delegates, you can build a robust foundation of support and enhance the likelihood of your AIP’s success within the ApeCoin DAO.

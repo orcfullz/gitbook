@@ -39,8 +39,8 @@ Think of this as your guide to navigating the landscape of stakeholders within t
 Our goal? To help you build stronger relationships that matter. By getting inside the minds of your stakeholders—knowing their interests, motivations, and influence—you’ll enhance their support and get them actively involved in pushing your AIP forward.
 {% endhint %}
 
-{% content-ref url="naming-your-vision.md" %}
-[naming-your-vision.md](naming-your-vision.md)
+{% content-ref url="../../201-classes/stakeholder-analysis/introduction.md" %}
+[introduction.md](../../201-classes/stakeholder-analysis/introduction.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../201-classes/stakeholder-analysis/stakeholder-identification.md" %}

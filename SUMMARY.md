@@ -6,7 +6,7 @@
 
 * [Welcome](101-classes/welcome/README.md)
   * [Creating your skeleton](101-classes/welcome/creating-your-skeleton.md)
-  * [Naming Your Vision](101-classes/welcome/naming-your-vision.md)
+  * [Naming Your Vision](201-classes/stakeholder-analysis/introduction.md)
   * [Introducing the Minds Behind the Idea](101-classes/welcome/introducing-the-minds-behind-the-idea.md)
   * [Crafting a Compelling Overview](101-classes/welcome/crafting-a-compelling-overview.md)
   * [Your Blueprint for AIP Success](101-classes/welcome/your-blueprint-for-aip-success.md)

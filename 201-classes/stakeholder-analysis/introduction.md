@@ -1,8 +1,8 @@
 ---
-icon: input-text
 description: >-
   Discover how to craft a memorable title that captures attention, conveys your
   core idea, and engages the community.
+icon: input-text
 cover: ../../.gitbook/assets/Module-header (1).png
 coverY: 0
 layout:

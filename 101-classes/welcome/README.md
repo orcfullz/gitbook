@@ -48,23 +48,3 @@ Our goal? To help you build stronger relationships that matter. By getting insid
 
 Leverage these tools and techniques, and start applying them to make your AIP stand out and resonate with those who matter most. This is your guide to transforming stakeholders from passive observers into active supporters—let’s get started!
 {% endhint %}
-
-{% content-ref url="../../201-classes/stakeholder-analysis/stakeholder-identification.md" %}
-[stakeholder-identification.md](../../201-classes/stakeholder-analysis/stakeholder-identification.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../201-classes/stakeholder-analysis/stakeholder-mapping.md" %}
-[stakeholder-mapping.md](../../201-classes/stakeholder-analysis/stakeholder-mapping.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../201-classes/stakeholder-analysis/engagement-strategies.md" %}
-[engagement-strategies.md](../../201-classes/stakeholder-analysis/engagement-strategies.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../201-classes/stakeholder-analysis/researching-your-voters.md" %}
-[researching-your-voters.md](../../201-classes/stakeholder-analysis/researching-your-voters.md)
-{% endcontent-ref %}
-
-{% content-ref url="../../201-classes/stakeholder-analysis/stakeholder-feedback.md" %}
-[stakeholder-feedback.md](../../201-classes/stakeholder-analysis/stakeholder-feedback.md)
-{% endcontent-ref %}

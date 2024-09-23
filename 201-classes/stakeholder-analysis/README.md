@@ -3,12 +3,12 @@ icon: steak
 description: >-
   Welcome to Stakeholder Analysis 101: Your Guide to Engaging Effectively in the
   ApeCoin DAO
-cover: ../../.gitbook/assets/Module-header (1).png
-coverY: -1
+cover: ../../.gitbook/assets/Frame 427321830.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:

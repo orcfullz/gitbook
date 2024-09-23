@@ -1,8 +1,8 @@
 ---
+icon: arrow-progress
 description: >-
   Navigate the steps from finalising your draft to gaining approval, building
   community support, and handling feedback.
-icon: arrow-progress
 ---
 
 # From Draft to Approval
@@ -14,6 +14,16 @@ Getting your AIP approved isn’t just about the idea—it’s about how you pre
 
 Our goal is to empower you with the knowledge and tools to effectively submit and advocate for your AIP. By understanding each step of the journey—from finalising your draft to gaining community support—you'll increase the likelihood of your proposal being approved and successfully implemented.
 {% endhint %}
+
+### Our template is&#x20;
+
+{% embed url="https://forum.apecoin.com/t/aip-draft-template/6331" %}
+The template to build from from the ApeCoin DAO.
+{% endembed %}
+
+{% embed url="https://docs.google.com/document/d/1K5dBU7MxPuvEe45TVcWpf0s4f2TJphnQmkFdbXSdgq4/pub" fullWidth="true" %}
+A google doc version to copy and build in
+{% endembed %}
 
 ### Laying Out Your Phases: The Building Blocks of Your Project
 

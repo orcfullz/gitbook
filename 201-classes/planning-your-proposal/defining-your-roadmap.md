@@ -1,6 +1,6 @@
 ---
-description: Project Phases and Key Milestones
 icon: map-location
+description: Project Phases and Key Milestones
 ---
 
 # Defining Your Roadmap
@@ -21,13 +21,15 @@ To successfully navigate your AIP through the various stages of the DAO's approv
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th>Phase</th><th>Definition </th><th>Key Activities	</th><th>Why It Matters</th></tr></thead><tbody><tr><td><strong>1: Planning Phase</strong></td><td>The initial stage where objectives, scope, and deliverables are defined.</td><td>Define project objectives, scope, and deliverables; identify stakeholders; develop an initial project plan; conduct a risk assessment.</td><td>Sets the foundation for the project by aligning all stakeholders and preventing scope creep.</td></tr><tr><td><strong>2: Development Phase</strong></td><td>The phase where ideas are transformed into tangible components or outputs.</td><td>Design and develop project components; perform initial testing; gather feedback; refine and iterate based on feedback.</td><td>Ensures that the project stays aligned with the goals and stakeholder expectations through continuous feedback and iteration.</td></tr><tr><td><strong>3: Implementation Phase</strong></td><td>The stage where the project components are deployed, tested comprehensively, and prepared for user adoption.</td><td>Deploy project components; conduct comprehensive testing; train users; collect final feedback.</td><td>Successful implementation ensures the project works as intended and is well-received by end-users, minimising post-launch issues.</td></tr><tr><td><strong>4: Evaluation Phase</strong></td><td>The final phase to assess the project’s outcomes, document lessons learned, and complete the project.</td><td>Assess project outcomes; document lessons learned; finalise project reports; celebrate project completion.</td><td>Provides valuable insights for future projects by understanding what worked well and what could be improved.</td></tr></tbody></table>
 
+***
+
+### **Milestones: Markers of Progress**
+
 {% hint style="info" %}
-#### Step 1: Create a Stakeholder List
+Create a Milestone List
 
 To effectively identify stakeholders, it's important to ask the right questions that help you understand who might be impacted by or interested in your project. Use these questions as a guide to create a comprehensive list of stakeholders and define their roles.
 {% endhint %}
-
-### **Milestones: Markers of Progress**
 
 **Celebrate the wins and stay on course.**\
 Before submitting your AIP, it's crucial to ensure your proposal is well-prepared, credible, and compelling. Think of these milestones as preparatory steps that help you refine your idea, gain early support, and anticipate potential challenges. Here’s how to set them up:

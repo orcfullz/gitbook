@@ -16,25 +16,31 @@ description: >-
 
 <details>
 
-<summary>What are the key interests or concerns of each stakeholder group?</summary>
+<summary>What are the specific interests, motivations, and concerns of each stakeholder group?</summary>
 
-Consider what each group cares about most—are they focused on project outcomes, compliance, financial returns, or community impact?
+_Understanding these factors will help you tailor your communication to address what matters most to them._
 
-</details>
-
-<details>
-
-<summary>How can I best communicate with each stakeholder group?</summary>
-
-Consider what each group cares about most—are they focused on project outcomes, compliance, financial returns, or community impact?
+_Ask yourself: How does my proposal benefit them directly? What issues might they have, and how can I alleviate their concerns?_
 
 </details>
 
 <details>
 
-<summary>What level of engagement is necessary to maintain their support or involvement?</summary>
+<summary>Which communication channels and methods are most effective for engaging with each stakeholder group?</summary>
 
-Determine how frequently and deeply you need to engage with each group to keep them invested in the project’s success.
+Determine the preferred platforms and communication styles for each group.
+
+_Consider: Do they engage more on forums, social media, or through direct messages? Do they prefer formal reports or casual discussions?_
+
+</details>
+
+<details>
+
+<summary>How can I foster ongoing support and active participation from each stakeholder group?</summary>
+
+Think about strategies to build and maintain strong relationships.
+
+_Reflect on: What engagement activities will resonate with them? How can I encourage their involvement in the proposal's development and implementation?_
 
 </details>
 

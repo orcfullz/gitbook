@@ -1,8 +1,8 @@
 ---
+icon: ruler-combined
 description: >-
   Welcome to Stakeholder Analysis 101: Your Guide to Engaging Effectively in the
   ApeCoin DAO
-icon: ruler-combined
 cover: ../../.gitbook/assets/Module-header (1).png
 coverY: -1
 layout:
@@ -51,22 +51,26 @@ Our goal? To empower you with the tools and strategies needed to create a projec
 Think of your project plan as a pitch to your stakeholders. Every detail should be there to build trust and credibility. Include contingencies for risks, transparent timelines, and clear accountability for each team member. The more your plan reflects careful thought and preparation, the more support and momentum you’ll gather.
 {% endhint %}
 
-{% content-ref url="../stakeholder-analysis/stakeholder-identification.md" %}
-[stakeholder-identification.md](../stakeholder-analysis/stakeholder-identification.md)
+{% content-ref url="defining-your-roadmap.md" %}
+[defining-your-roadmap.md](defining-your-roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="../stakeholder-analysis/stakeholder-mapping.md" %}
-[stakeholder-mapping.md](../stakeholder-analysis/stakeholder-mapping.md)
+{% content-ref url="setting-the-beat.md" %}
+[setting-the-beat.md](setting-the-beat.md)
 {% endcontent-ref %}
 
-{% content-ref url="../stakeholder-analysis/engagement-strategies.md" %}
-[engagement-strategies.md](../stakeholder-analysis/engagement-strategies.md)
+{% content-ref url="building-momentum.md" %}
+[building-momentum.md](building-momentum.md)
 {% endcontent-ref %}
 
-{% content-ref url="../stakeholder-analysis/researching-your-voters.md" %}
-[researching-your-voters.md](../stakeholder-analysis/researching-your-voters.md)
+{% content-ref url="navigating-the-maze.md" %}
+[navigating-the-maze.md](navigating-the-maze.md)
 {% endcontent-ref %}
 
-{% content-ref url="../stakeholder-analysis/stakeholder-feedback.md" %}
-[stakeholder-feedback.md](../stakeholder-analysis/stakeholder-feedback.md)
+{% content-ref url="fuelling-your-project.md" %}
+[fuelling-your-project.md](fuelling-your-project.md)
+{% endcontent-ref %}
+
+{% content-ref url="visualising-success.md" %}
+[visualising-success.md](visualising-success.md)
 {% endcontent-ref %}

@@ -62,7 +62,9 @@ Aim for clarity by avoiding jargon and focusing on the main points. Can someone 
 
 #### **Does It Meet All the Requirements?**
 
-Double-check the ApeCoinDAO guidelines. Are all required sections filled out correctly? Have you provided all necessary attachments?
+Double-check the ApeCoinDAO guidelines. Are all required sections filled out correctly? Have you provided all necessary attachments?&#x20;
+
+[**https://forum.apecoin.com/t/aip-draft-template/6331**](https://forum.apecoin.com/t/aip-draft-template/6331)
 
 #### **Have You Incorporated Feedback?**
 
@@ -126,11 +128,8 @@ Clearly state your contact details to avoid delays if the committee needs clarif
 {% endtab %}
 
 {% tab title="Contact Points" %}
-**ApeCoinDAO Forum Moderators:** \
-Reach out in the ApeCoinDAO forum for guidance from moderators or experienced members.
-
-**Direct Email Support:** \
-Email support@apecoindao.com for technical issues or platform access problems.
+**ApeCoinDAO Forum:** \
+Reach out in the ApeCoinDAO forum for guidance from moderators or experienced members. [https://forum.apecoin.com/c/help-resources/get-help/28](https://forum.apecoin.com/c/help-resources/get-help/28)
 {% endtab %}
 {% endtabs %}
 
@@ -344,9 +343,10 @@ Learn how to harness data to support your proposal, engage in strategic communic
 
 **Final Thought:**&#x20;
 
-Your AIP might be approved, but your journey doesn’t end here. Think of this milestone as the beginning of your ongoing role in shaping the future of ApeCoinDAO. Stay curious, stay engaged, and keep pushing the boundaries of what’s possible.
+### Your AIP might be approved, but your journey doesn’t end here.
+
+Remember that not all AIPs are approved on the first try. Some proposals may require resubmissions or revisions based on community feedback. Others might find alternative routes to success outside of the AIP process. It's important to recognise that grant funding is not the only way to build a sustainable project within the ApeCoin DAO ecosystem.
+
+Think of this milestone—whether your AIP is approved now or later—as the beginning of your ongoing role in shaping the future of the ApeCoin DAO. Stay curious, stay engaged, and keep pushing the boundaries of what’s possible.
 
 > ## _**"Great ideas don’t just improve the DAO; they inspire others to take action, too."**_
-
-**Curious About What's Next?**\
-Join us in the 201 classes to explore advanced strategies that will help you refine, sharpen, and elevate your next big idea.

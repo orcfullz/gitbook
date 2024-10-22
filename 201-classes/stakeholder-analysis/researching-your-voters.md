@@ -16,7 +16,7 @@ To maximise support for your AIPs (Ape Improvement Proposals), it's crucial to t
 
 Hypothetical Examples:
 
-![](<../../.gitbook/assets/image (4).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 **junglevoice.eth**\
 An ApeCoin DAO Secretary and data analyst, junglevoice.eth actively contributes to the community by providing valuable insights through a weekly newsletter and tracking DAO metrics. Committed to ensuring transparency and informed decision-making, they aim to guide the DAO toward sustainable growth and active member engagement.
@@ -26,7 +26,7 @@ An ApeCoin DAO Secretary and data analyst, junglevoice.eth actively contributes 
 * **Proposals Voted On:** 70 (25%)
 * **First Vote:** March 24, 2022
 
-![](<../../.gitbook/assets/image (6).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 **builderhub.eth**\
 BuilderHub, the creator of The Builder Collective, aims to support new DAO members and token holders by fostering engagement, building virtual identities, and uplifting community voices in the ApeCoin DAO. With experience in blockchain infrastructure and active participation in the ApeCoin ecosystem, BuilderHub continues to advocate for decentralized governance and community growth.
@@ -36,7 +36,7 @@ BuilderHub, the creator of The Builder Collective, aims to support new DAO membe
 * **Proposals Voted On:** 180 (55%)
 * **First Vote:** April 10, 2022
 
-![](<../../.gitbook/assets/image (7).png>)
+![](<../../.gitbook/assets/image (11).png>)
 
 **metaape.eth**\
 MetaApe represents a hypothetical NFT community with a mission to promote decentralization in ApeCoin DAO governance. By delegating 6 million $APE to their community, MetaApe empowers its members to vote on proposals and co-create within the DAO, bringing together key figures in the Web3 space to support an open metaverse.

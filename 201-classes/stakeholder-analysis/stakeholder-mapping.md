@@ -39,17 +39,11 @@ Assessing a stakeholder's influence determines their capacity to affect your pro
 
 ***
 
-### Examples of what the outcome might look like
-
-Your focus should be on arming yourself with the knowledge around the importance of and  level of communication you need to have with each of these stakeholders
-
-<table data-view="cards" data-full-width="false"><thead><tr><th>Stakeholder Name</th><th>Interest</th><th>Influence</th><th>Matrix Position</th><th>Why?</th></tr></thead><tbody><tr><td><strong>ApeCoinDAO Members</strong></td><td><strong>High</strong> </td><td><strong>High</strong></td><td><strong>(High, High)</strong></td><td>Reason it sits here in the matrix.</td></tr><tr><td><strong>AIP Authors</strong> </td><td><strong>High</strong></td><td><strong>Medium</strong></td><td><strong>(High, Medium)</strong></td><td>Reason it sits here in the matrix.</td></tr><tr><td><strong>DAO Governance Team</strong> </td><td><strong>High</strong></td><td><strong>High</strong></td><td><strong>(High, High)</strong></td><td>Reason it sits here in the matrix.</td></tr><tr><td><strong>Partners</strong> </td><td><strong>High</strong></td><td><strong>Medium</strong></td><td><strong>(Medium, Medium)</strong></td><td>Reason it sits here in the matrix.</td></tr><tr><td><strong>Regulatory Bodies</strong> </td><td><strong>Low</strong></td><td><strong>High</strong></td><td><strong>(High, Low)</strong></td><td>Reason it sits here in the matrix.</td></tr></tbody></table>
-
-***
-
-### A hypothetical example for reference
+### A hypothetical example of what outcome might look like, for reference&#x20;
 
 Proposal to Develop an Open-Source Developer Toolkit for Building Decentralized Applications (dApps) on ApeChain.
+
+***
 
 <table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th>Stakeholder Name</th><th>Interest</th><th>Influence</th><th>Matrix Position</th><th>Why?</th></tr></thead><tbody><tr><td><strong>Active DAO Members</strong></td><td><strong>High</strong> </td><td><strong>High</strong></td><td><strong>(High, High)</strong></td><td>They have high interest and influence as they actively vote on proposals and benefit from tools that expand the ecosystem and enhance the utility of ApeCoin.</td></tr><tr><td><strong>Proposal Creators and Contributors</strong></td><td><strong>High</strong></td><td><strong>Medium</strong></td><td><strong>(High, Medium)</strong></td><td>They are highly interested because the toolkit could simplify the development process, making it easier to propose and build new projects, but their direct influence on governance decisions may be more limited.</td></tr><tr><td><strong>Special Council Members</strong></td><td><strong>High</strong></td><td><strong>High</strong></td><td><strong>(High, High)</strong></td><td>They have both high interest and influence as they ensure the proposal aligns with the strategic goals of the DAO and adheres to governance standards.</td></tr><tr><td><strong>Strategic Partners and Collaborators</strong> </td><td><strong>High</strong></td><td><strong>Medium</strong></td><td><strong>(Medium, Medium)</strong></td><td>They are interested in collaborative opportunities to build and integrate with ApeChain, enhancing their own projects, but their influence is moderate regarding direct DAO decisions.</td></tr><tr><td><strong>Financial Regulators, Compliance Authorities</strong></td><td><strong>Low</strong></td><td><strong>High</strong></td><td><strong>(High, Low)</strong></td><td>Their interest is low unless regulatory concerns arise, but their influence is high since they ensure that the DAO activities comply with regulations.</td></tr><tr><td><strong>Major Token Holders and Speculators</strong></td><td><strong>High</strong></td><td><strong>High</strong></td><td><strong>(Medium, High)</strong></td><td>Larger holders have a high interest in projects that drive ecosystem growth and increase token utility, impacting the value of their contribution, and they hold significant influence over financial aspects of the DAO.</td></tr></tbody></table>
 

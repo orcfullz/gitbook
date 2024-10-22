@@ -1,8 +1,8 @@
 ---
+icon: screen-users
 description: >-
   Showcase your team’s expertise and build credibility by effectively presenting
   the people behind your proposal.
-icon: screen-users
 ---
 
 # Introducing the Minds Behind the Idea
@@ -120,28 +120,58 @@ Evaluate the power dynamics at play. Determine who holds significant sway, whose
 {% endtab %}
 
 {% tab title="Example Application:" %}
-**Example Team Profile for AllCityBAYC in the ApeCoinDAO Governance Group:**
+**\[FICTIONAL] Example Team Profile:**
 
-**Name**: AllCityBAYC
+**Name**: MetaMonkeys
 
-**Introduction**: AllCityBAYC is a dedicated ApeCoin DAO contributor known for his extensive work within the Governance Working Group. With a background in project management and creative direction in compliance-focused environments, he has consistently pushed for greater transparency, community engagement, and structural improvements in the DAO.
+**Introduction**:&#x20;
+
+MetaMonkeys is a team of seasoned developers, designers, and community enthusiasts passionate about advancing the ApeCoin DAO ecosystem. With a combined experience of over 20 years in blockchain technology, game development, and community management, we aim to bring innovative solutions that resonate with the ApeCoin community.
 
 **Core Contributions**:
 
-* **Governance Leadership**: As one of the first Governance Working Group Stewards, AllCityBAYC expanded the group's role from oversight to active project management, initiating programs like Ape U and the Delegate Accelerator.
-* **AIP Author**: Successfully authored AIP-169 "BeyondTheSWAMP," a project to develop a community-driven ApeCoin-focused magazine, funded on April 21st. Currently developing a mentorship program pairing successful AIP authors with first-time writers.
-* **Election and Stewardship**: Running for re-election as a Governance Working Group Steward to continue his focus on DAO efficiency, transparency, and community-driven initiatives.
+* **Blockchain Innovation:**
+  * **Developed "ApeQuest,"** an interactive blockchain-based game that engaged over 10,000 users in its first month.
+  * Created smart contracts for decentralized applications that have been audited and praised for their security and efficiency.
+  * **Community Engagement:**
+    * **Hosted "MonkeyChats,"** a series of live discussions bringing together thought leaders in the blockchain space to share insights with the community.
+    * Managed online forums and social media channels that increased community participation by 40%.
+  * **Educational Initiatives:**
+    * **Launched "ApeAcademy,"** offering free courses and workshops on blockchain technology and DAO governance.
+    * Mentored newcomers to the ApeCoin ecosystem, helping them navigate the complexities of DAO participation.
 
 **Unique Strengths**:
 
-* **Proven Track Record**: Successfully managed multiple initiatives within the DAO, demonstrating his ability to bring projects to completion while adhering to budget and community expectations.
-* **Strategic Vision**: Advocates for applying proven governance structures from traditional environments to the evolving landscape of the ApeCoin DAO.
-* **Community Focused**: Committed to enhancing community engagement through innovative programs, better resource allocation, and transparent governance practices.
+* **Technical Expertise:**
+  * Proficient in multiple programming languages relevant to blockchain development, including Solidity and Rust.
+  * Experience in integrating NFTs and gaming mechanics to enhance user engagement within the DAO.
+* **Creative Innovation:**
+  * Plans to introduce a novel reward system that incentives community participation through gamification.
+  * Utilising augmented reality (AR) technologies to create immersive experiences for ApeCoin holders.
+* **Alignment with ApeCoin DAO Values:**
+  * Committed to the principles of decentralisation, transparency, and community empowerment.
+  * Dedicated to creating solutions that not only advance technological capabilities but also strengthen community bonds.
 
-**Why the Community Should Trust AllCityBAYC**: AllCityBAYC’s experience and character set him apart. He combines business acumen with creative thinking and is known for his open-minded approach to governance. His commitment to the ApeCoin DAO is evident through his continuous efforts to build a stronger, more efficient, and inclusive community.
+**Why the Community Should Trust MetaMonkeys**:&#x20;
 
-By incorporating this example into your AIP draft, you provide a compelling narrative that showcases your experience, contributions, and dedication, aligning with the values and goals of the ApeCoin community.
+MetaMonkeys brings a blend of technical prowess and creative vision, backed by a history of successful projects and community initiatives. Our dedication to the ApeCoin DAO's mission is demonstrated through our proactive engagement and the tangible value we've delivered in past endeavors. We prioritize security, innovation, and inclusivity, ensuring that our proposals benefit the entire community.
 
-For more on AllCityBAYC's contributions and vision for ApeCoin DAO, check out his profile and interview [here](https://www.theboredapegazette.com)​
+**Links:**
+
+* **Website:** [www.metamonkeys.dev](http://www.metamonkeys.dev)
+* **GitHub:** [github.com/MetaMonkeys](http://github.com/MetaMonkeys)
+* **LinkedIn Profiles:**
+  * **Alex Turner (Project Lead):** [linkedin.com/in/alexturner](http://linkedin.com/in/alexturner)
+  * **Bella Nguyen (Lead Developer):** [linkedin.com/in/bellanguyen](http://linkedin.com/in/bellanguyen)
+  * **Carlos Martinez (Community Manager):** [linkedin.com/in/carlosmartinez](http://linkedin.com/in/carlosmartinez)
+
+**Past Involvement with ApeCoin DAO:**
+
+* **Active Participation:**
+  * Regularly contribute to DAO discussions, providing insights and suggestions on various proposals.
+  * Collaborated with other members to host community events and AMAs.
+* **Previous Proposals:**
+  * Submitted AIP-42, "Enhancing DAO Voting Systems," which received positive feedback and was integrated into the governance process.
+  * Assisted in refining proposals from other community members by offering technical advice and support.
 {% endtab %}
 {% endtabs %}

@@ -3,7 +3,7 @@
 ## 101 Classes
 
 * [Welcome](README.md)
-  * [Creating your skeleton](101-classes/welcome/creating-your-skeleton.md)
+  * [Structuring the AIP Outline](101-classes/welcome/structuring-the-aip-outline.md)
   * [Naming Your Vision](201-classes/stakeholder-analysis/introduction.md)
   * [Introducing the Minds Behind the Idea](101-classes/welcome/introducing-the-minds-behind-the-idea.md)
   * [Crafting a Compelling Overview](101-classes/welcome/crafting-a-compelling-overview.md)

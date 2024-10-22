@@ -1,31 +1,50 @@
 ---
-cover: >-
-  https://images.unsplash.com/photo-1528605248644-14dd04022da1?crop=entropy&cs=tinysrgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHwxMHx8dGVhbSUyMG9mJTIwcGVvcGxlfGVufDB8fHx8MTY2MDMxNzQzNg&ixlib=rb-1.2.1&q=80
-coverY: 0
+description: >-
+  Welcome to Stakeholder Analysis 101: Your Guide to Engaging Effectively in the
+  ApeCoin DAO
+icon: steak
+cover: ../../.gitbook/assets/Module-header (1).png
+coverY: -1
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# 👋 Welcome!
+# Welcome
+
+## Your Guide to Engaging Effectively in the ApeCoin DAO
+
+Now that you’re mid-way through the 201 modules, it's time to dig deeper into understanding how to effectively engage the community around your Ape Improvement Proposal (AIP). Stakeholder analysis is at the heart of driving your AIP forward—knowing who to engage, how to communicate, and where to focus your efforts can make all the difference.
+
+> _“The amount of courage it takes to put our ideas into writing and present them to the world is enormous, but that’s where the growth happens. We’re here to engage with the community, to hear their voices, and to refine our ideas together.”_
+
+This module brings together insights and strategies to help you master stakeholder identification, mapping, engagement, and feedback. You'll learn how to research and understand your voters, align your proposal with their interests, and build strong support networks within the ApeCoin DAO.&#x20;
 
 {% hint style="info" %}
-**About this template:** An Internal Wiki to lay out everything anyone needs to know about the company, help others get to know your team, product or company better..
+**Purpose**
+
+Think of this as your guide to navigating the landscape of stakeholders within the ApeCoin DAO. You'll learn how to turn potential supporters into active allies by understanding who they are, what they care about, and how to connect with them.
 {% endhint %}
 
-For **new team members**, this space will be helpful during your first days with the team, to better learn about who we are and how we work.
+{% hint style="info" %}
+**What we're aiming to achieve**&#x20;
 
-For **long-time team members**, this space will act as a reminder and allow you to find answers about admin and policies etc.
+Our goal? To help you build stronger relationships that matter. By getting inside the minds of your stakeholders—knowing their interests, motivations, and influence—you’ll enhance their support and get them actively involved in pushing your AIP forward.
+{% endhint %}
 
-<details>
+{% hint style="info" %}
+**Dive in with an open mind**
 
-<summary>How to use it?</summary>
-
-This space is designed to be read linearly, so start with our Vision, Mission & Focus and work down from there! We recommend reading everything through in one sitting and then revisiting and re-reading if you need to.
-
-</details>
-
-<details>
-
-<summary>Contributing</summary>
-
-If you want to contribute changes, start a new change request and submit it for review. The People team will review it soon after.
-
-</details>
+Leverage these tools and techniques, and start applying them to make your AIP stand out and resonate with those who matter most. This is your guide to transforming stakeholders from passive observers into active supporters—let’s get started!
+{% endhint %}

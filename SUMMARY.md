@@ -1,10 +1,8 @@
 # Table of contents
 
-* [👋 Welcome!](README.md)
-
 ## 101 Classes
 
-* [Welcome](101-classes/welcome/README.md)
+* [Welcome](README.md)
   * [Creating your skeleton](101-classes/welcome/creating-your-skeleton.md)
   * [Naming Your Vision](201-classes/stakeholder-analysis/introduction.md)
   * [Introducing the Minds Behind the Idea](101-classes/welcome/introducing-the-minds-behind-the-idea.md)

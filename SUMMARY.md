@@ -20,7 +20,7 @@
   * [Stakeholder Feedback](201-classes/stakeholder-analysis/stakeholder-feedback.md)
 * [Planning your Proposal](201-classes/planning-your-proposal/README.md)
   * [Defining Your Roadmap](201-classes/planning-your-proposal/defining-your-roadmap.md)
-  * [Setting the Beat](201-classes/planning-your-proposal/setting-the-beat.md)
+  * [Setting the Stage](201-classes/planning-your-proposal/setting-the-stage.md)
   * [Building Momentum](201-classes/planning-your-proposal/building-momentum.md)
   * [Navigating the Maze](201-classes/planning-your-proposal/navigating-the-maze.md)
   * [Fuelling Your Project](201-classes/planning-your-proposal/fuelling-your-project.md)

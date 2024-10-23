@@ -55,8 +55,8 @@ Think of your project plan as a pitch to your stakeholders. Every detail should 
 [defining-your-roadmap.md](defining-your-roadmap.md)
 {% endcontent-ref %}
 
-{% content-ref url="setting-the-beat.md" %}
-[setting-the-beat.md](setting-the-beat.md)
+{% content-ref url="setting-the-stage.md" %}
+[setting-the-stage.md](setting-the-stage.md)
 {% endcontent-ref %}
 
 {% content-ref url="building-momentum.md" %}

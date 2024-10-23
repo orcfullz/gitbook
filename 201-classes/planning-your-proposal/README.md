@@ -59,8 +59,8 @@ Think of your project plan as a pitch to your stakeholders. Every detail should 
 [setting-the-stage.md](setting-the-stage.md)
 {% endcontent-ref %}
 
-{% content-ref url="building-momentum.md" %}
-[building-momentum.md](building-momentum.md)
+{% content-ref url="building-momentum-before-submission.md" %}
+[building-momentum-before-submission.md](building-momentum-before-submission.md)
 {% endcontent-ref %}
 
 {% content-ref url="navigating-the-maze.md" %}

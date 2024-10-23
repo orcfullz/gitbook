@@ -22,6 +22,6 @@
   * [Defining Your Roadmap](201-classes/planning-your-proposal/defining-your-roadmap.md)
   * [Setting the Stage](201-classes/planning-your-proposal/setting-the-stage.md)
   * [Building Momentum Before Submission](201-classes/planning-your-proposal/building-momentum-before-submission.md)
-  * [Navigating the Maze](201-classes/planning-your-proposal/navigating-the-maze.md)
+  * [Navigating the Maze Before Submission](201-classes/planning-your-proposal/navigating-the-maze-before-submission.md)
   * [Fuelling Your Project](201-classes/planning-your-proposal/fuelling-your-project.md)
   * [Visualising Success](201-classes/planning-your-proposal/visualising-success.md)

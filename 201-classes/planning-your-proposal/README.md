@@ -63,8 +63,8 @@ Think of your project plan as a pitch to your stakeholders. Every detail should 
 [building-momentum-before-submission.md](building-momentum-before-submission.md)
 {% endcontent-ref %}
 
-{% content-ref url="navigating-the-maze.md" %}
-[navigating-the-maze.md](navigating-the-maze.md)
+{% content-ref url="navigating-the-maze-before-submission.md" %}
+[navigating-the-maze-before-submission.md](navigating-the-maze-before-submission.md)
 {% endcontent-ref %}
 
 {% content-ref url="fuelling-your-project.md" %}

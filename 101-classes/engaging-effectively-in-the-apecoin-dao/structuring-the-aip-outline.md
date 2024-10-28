@@ -47,8 +47,8 @@ Our goal? To prepare you for creating a comprehensive and persuasive AIP. By und
 
 In the upcoming sections, we'll dive deeper into each aspect of the AIP drafting process:
 
-{% content-ref url="../../201-classes/stakeholder-analysis/introduction.md" %}
-[introduction.md](../../201-classes/stakeholder-analysis/introduction.md)
+{% content-ref url="naming-your-vision.md" %}
+[naming-your-vision.md](naming-your-vision.md)
 {% endcontent-ref %}
 
 {% content-ref url="../../201-classes/stakeholder-analysis/stakeholder-identification.md" %}

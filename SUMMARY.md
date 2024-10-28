@@ -2,13 +2,13 @@
 
 ## 101 Classes
 
-* [Welcome](README.md)
-  * [Structuring the AIP Outline](101-classes/welcome/structuring-the-aip-outline.md)
-  * [Naming Your Vision](201-classes/stakeholder-analysis/introduction.md)
-  * [Introducing the Minds Behind the Idea](101-classes/welcome/introducing-the-minds-behind-the-idea.md)
-  * [Crafting a Compelling Overview](101-classes/welcome/crafting-a-compelling-overview.md)
-  * [Your Blueprint for AIP Success](101-classes/welcome/your-blueprint-for-aip-success.md)
-  * [From Draft to Approval](101-classes/welcome/from-draft-to-approval.md)
+* [Engaging Effectively in the ApeCoin DAO](README.md)
+  * [Structuring the AIP Outline](101-classes/engaging-effectively-in-the-apecoin-dao/structuring-the-aip-outline.md)
+  * [Naming Your Vision](101-classes/engaging-effectively-in-the-apecoin-dao/naming-your-vision.md)
+  * [Introducing the Minds Behind the Idea](101-classes/engaging-effectively-in-the-apecoin-dao/introducing-the-minds-behind-the-idea.md)
+  * [Crafting a Compelling Overview](101-classes/engaging-effectively-in-the-apecoin-dao/crafting-a-compelling-overview.md)
+  * [Your Blueprint for AIP Success](101-classes/engaging-effectively-in-the-apecoin-dao/your-blueprint-for-aip-success.md)
+  * [From Draft to Approval](101-classes/engaging-effectively-in-the-apecoin-dao/from-draft-to-approval.md)
 
 ## 201 Classes
 

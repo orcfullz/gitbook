@@ -25,6 +25,8 @@ layout:
 
 ## Welcome to Your AIP Draft Journey!&#x20;
 
+\[VISUAL OF X]
+
 Creating an ApeCoin Improvement Proposal (AIP) is an exciting step toward contributing to the growth and evolution of the ApeCoin DAO ecosystem. But it can also feel daunting—there’s a lot to cover, and the stakes are high.&#x20;
 
 This guide is here to help you navigate the AIP drafting process with confidence and clarity.&#x20;

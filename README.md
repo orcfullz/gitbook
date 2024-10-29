@@ -1,9 +1,9 @@
 ---
+icon: steak
 description: >-
   Welcome to Stakeholder Analysis 101: Your Guide to Engaging Effectively in the
   ApeCoin DAO
-icon: steak
-cover: ../../.gitbook/assets/Module-header (1).png
+cover: .gitbook/assets/Module-header (1).png
 coverY: -1
 layout:
   cover:
@@ -21,15 +21,19 @@ layout:
     visible: true
 ---
 
-# Welcome
+# Engaging Effectively in the ApeCoin DAO
 
 ## Your Guide to Engaging Effectively in the ApeCoin DAO
+
+<mark style="background-color:yellow;">\[Visuals: ApeCoin DAO/Ape\_U School logo spinning]</mark>
 
 Now that you’re mid-way through the 201 modules, it's time to dig deeper into understanding how to effectively engage the community around your Ape Improvement Proposal (AIP). Stakeholder analysis is at the heart of driving your AIP forward—knowing who to engage, how to communicate, and where to focus your efforts can make all the difference.
 
 > _“The amount of courage it takes to put our ideas into writing and present them to the world is enormous, but that’s where the growth happens. We’re here to engage with the community, to hear their voices, and to refine our ideas together.”_
 
 This module brings together insights and strategies to help you master stakeholder identification, mapping, engagement, and feedback. You'll learn how to research and understand your voters, align your proposal with their interests, and build strong support networks within the ApeCoin DAO.&#x20;
+
+<mark style="background-color:yellow;">\[Visuals: Maybe some sort of map or overview of every topic that is to come]</mark>
 
 {% hint style="info" %}
 **Purpose**

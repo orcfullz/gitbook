@@ -7,6 +7,8 @@ description: >-
 
 # Introducing the Minds Behind the Idea
 
+<mark style="background-color:yellow;">\[Visuals: Some sort of big overview image of happy collabrators? Or something? To show the people behind it.]</mark>
+
 ## This section is your opportunity to establish credibility and rapport with the community.&#x20;
 
 Think of it as an introduction at a networking event. Share your team’s story, backgrounds, relevant experiences, and specific skills that uniquely position you to bring this proposal to life. Show how your team's expertise aligns with the needs and goals of the ApeCoinDAO.
@@ -28,6 +30,8 @@ Highlight your team's unique strengths, backgrounds, and any perspectives that d
 Think of this section as your personal pitch to the community. The goal here is to establish trust and credibility by showcasing the unique skills, experiences, and backgrounds of your team members.&#x20;
 
 To help you structure your team introduction effectively, consider these probing questions and sub-points to guide your content and make it compelling.
+
+<mark style="background-color:yellow;">\[Might be beneficial to have 1 bold sentence above each tab. (e.g "Let us know your background!" "Share your past experience!" "Let us know why you are the best for this!")]</mark>
 
 <details>
 
@@ -70,9 +74,11 @@ To help you structure your team introduction effectively, consider these probing
 
 </details>
 
-### Tips from successful authors
+### Tips from successful authors: Claridfy your stakeholders!
 
 Once you have a preliminary list, it’s time to refine it by digging deeper. Clarify each stakeholder’s role in relation to your AIP, understand their interests, concerns, or motivations, and assess their level of influence over your proposal’s success.
+
+<mark style="background-color:yellow;">\[Might be beneficial to amplify the part about stakeholders. Currently the flows feels like its this sections is still about tips on settping up your team.]</mark>
 
 <details>
 
@@ -99,6 +105,8 @@ Evaluate the power dynamics at play. Determine who holds significant sway, whose
 </details>
 
 ### Here's some examples of breaking down and laying out stakeholders
+
+<mark style="background-color:yellow;">\[Below feels more like guides/tips and tricks instead of "examples" maybe we can change the word 'examples' from above.]</mark>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th>Tip</th><th></th><th>How to Apply This Insight</th></tr></thead><tbody><tr><td>"Link to Your Past Work"</td><td>"Sharing a GitHub repo or portfolio is more than showing off; it’s proof you’ve done this before."</td><td>Share concrete examples of your work directly related to the AIP. Include links to repositories, articles, or previous DAO work.</td></tr><tr><td>"Share Personal Motivations"</td><td>"Passion is contagious. If you care deeply, others will care too."</td><td>Open your description with why this AIP matters to you personally, tying it back to broader ApeCoinDAO goals and values.</td></tr><tr><td>"Highlight Key Learning Curves"</td><td>"It’s not just about wins; how did you grow from your past experiences?"</td><td>Discuss challenges in previous projects and how these have shaped your current approach, highlighting growth and adaptability.</td></tr><tr><td>"Include Endorsements"</td><td>"Endorsements act like a DAO resume—other people vouching for your skills."</td><td>Ask trusted community members or past collaborators to provide a short testimonial or endorsement to build credibility.</td></tr><tr><td>"Tell an Underdog Story"</td><td>"Success in spite of adversity shows grit and creativity."</td><td>Share stories where you overcame significant obstacles creatively or resourcefully, demonstrating resilience and commitment.</td></tr></tbody></table>
 

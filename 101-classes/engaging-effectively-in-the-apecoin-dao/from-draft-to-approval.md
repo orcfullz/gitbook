@@ -7,6 +7,8 @@ description: >-
 
 # From Draft to Approval
 
+\[A graph/ icon of the word to represent community]
+
 Getting your AIP approved isn’t just about the idea—it’s about how you present, refine, and advocate for it. This section will walk you through the steps from finalising your draft to building community support, navigating the review process, and handling feedback. Think of it as your guidebook for the journey ahead. Let's dive in!
 
 {% hint style="info" %}
@@ -55,6 +57,10 @@ Think of your draft as a polished pitch to potential investors—you need to be 
 ***
 
 ### Questions to ask yourself and your team
+
+#### **\[Feels very repetitive imo]**
+
+
 
 #### **Is the Proposal Clear and Concise?**
 
@@ -341,6 +347,8 @@ Now that you've mastered the basics, it's time to dig deeper and elevate your pr
 
 Learn how to harness data to support your proposal, engage in strategic communications, and build coalitions that drive broader support. These next steps are designed to help you think more critically, anticipate challenges, and optimise every aspect of your AIP journey.
 
+\[Visuals: Maybe some icons to show the ApeU icon with books or something]
+
 **Final Thought:**&#x20;
 
 ### Your AIP might be approved, but your journey doesn’t end here.
@@ -348,5 +356,7 @@ Learn how to harness data to support your proposal, engage in strategic communic
 Remember that not all AIPs are approved on the first try. Some proposals may require resubmissions or revisions based on community feedback. Others might find alternative routes to success outside of the AIP process. It's important to recognise that grant funding is not the only way to build a sustainable project within the ApeCoin DAO ecosystem.
 
 Think of this milestone—whether your AIP is approved now or later—as the beginning of your ongoing role in shaping the future of the ApeCoin DAO. Stay curious, stay engaged, and keep pushing the boundaries of what’s possible.
+
+\[Logo of spinning coin]
 
 > ## _**"Great ideas don’t just improve the DAO; they inspire others to take action, too."**_

@@ -5,6 +5,8 @@ description: Project Phases and Key Milestones
 
 # Defining Your Roadmap
 
+<mark style="background-color:yellow;">\[Visual of a roadmap example]</mark>
+
 ## Building a great AIP isn’t just about vision; it’s about execution.
 
 And execution starts with a clear roadmap. Your project’s phases and milestones are the foundation upon which everything else is built. This section will guide you through defining these essential components, ensuring your project moves forward in a structured and efficient way.

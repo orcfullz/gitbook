@@ -1,8 +1,8 @@
 ---
+icon: input-text
 description: >-
   Discover how to craft a memorable title that captures attention, conveys your
   core idea, and engages the community.
-icon: input-text
 cover: ../../.gitbook/assets/Module-header (1).png
 coverY: 0
 layout:
@@ -65,6 +65,8 @@ Don’t use highly technical terms or internal jargon that might not be understo
 
 ## _**Examples of Good vs. Bad Names:**_
 
+<mark style="background-color:yellow;">\[Visuals: I think maybe the section below (Good and Bad names) Can be blown up to be a sign by sign comparision. Think this will make it eye catching enough for people to digest in a glance]</mark>
+
 {% hint style="success" %}
 ### “Budget Transparency Initiative”
 {% endhint %}
@@ -80,6 +82,8 @@ _Why?_ It’s long-winded, overly complex, and doesn’t get to the point quickl
 ***
 
 ### **Questions to push you:**
+
+<mark style="background-color:yellow;">\[Visuals: Maybe something like 5 blank underscores]</mark>
 
 <details>
 
@@ -97,6 +101,8 @@ If not, break it back down into the fundamentals of what you're trying to addres
 
 </details>
 
+<mark style="background-color:yellow;">\[Visuals: 2 comparision of good names vs vague naming]</mark>
+
 <details>
 
 <summary>Does the name convey the core idea or objective?</summary>
@@ -110,6 +116,8 @@ If not, what bits are missing? break it down into the most basic fundamentals of
 * **Avoid Ambiguity**: Ensure that your title doesn’t leave room for multiple interpretations. The reader should understand the main focus immediately.
 
 </details>
+
+<mark style="background-color:yellow;">\[Visuals: 2 Comparison of simple language vs technical jargon]</mark>
 
 <details>
 
@@ -126,6 +134,8 @@ What you should keep an eye on:
 </details>
 
 ### **An example pre and post application:**
+
+<mark style="background-color:yellow;">\[Maybe for this part it can hidden in a tab, only expand if reader needs it. If not it might seem to repetitive]</mark>
 
 **Original Title**: "Implementing Decentralised Autonomous Governance Modules in the ApeCoin Ecosystem"
 
@@ -145,6 +155,8 @@ By addressing each probing question with these sub-points, you can refine your p
 ***
 
 ### **Tips from successful Authors:**
+
+<mark style="background-color:yellow;">\[Visuals: Maybe we can make a compliation of ape profile photos? Or maybe just a. big pen. Might even be able to just change the colour for this section. Should be able to differential visually that this is just an addtional tip.]</mark>
 
 <details>
 

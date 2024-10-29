@@ -4,6 +4,8 @@ icon: book-open-cover
 
 # Researching Your Voters
 
+\[Visual of voting box]
+
 To maximise support for your AIPs (Ape Improvement Proposals), it's crucial to thoroughly research and understand the individuals and groups who will be voting. This involves observing voting patterns, understanding delegate behaviours, and crafting targeted engagement strategies that resonate with your potential supporters.
 
 <table data-card-size="large" data-view="cards"><thead><tr><th>Key Steps	</th><th>Description</th></tr></thead><tbody><tr><td><strong>Identify the Key Voter Groups</strong></td><td>List all potential voter groups within the ApeCoin DAO: Delegates, Direct Voters, and Interest Groups (e.g., developers, investors, content creators).</td></tr><tr><td><strong>Analyse Voting Behaviour and Patterns</strong></td><td>Review past voting records, understand motivations, and observe discussions in public forums to gauge opinions and sentiment.</td></tr><tr><td><strong>Map Out Potential Supporters</strong></td><td>Create a matrix or tracking sheet to map out potential supporters, noting voting history, interests, and relationships.</td></tr><tr><td><strong>Utilise Publicly Available Resources</strong></td><td>Use resources like the ApeCoin Delegates List to identify active delegates and regularly check for updates as the landscape changes.</td></tr></tbody></table>
@@ -48,8 +50,6 @@ MetaApe represents a hypothetical NFT community with a mission to promote decent
 
 </details>
 
-
-
 <details>
 
 <summary><mark style="color:blue;">Direct Voters: Token holders who choose to vote directly on proposals.</mark></summary>
@@ -77,8 +77,6 @@ A delegate who regularly votes and communicates their reasoning on the ApeCoin D
 A co-founder of a leading Web3 company, InnovateApe is an influential figure in the ApeCoin community and has been actively involved in governance as a delegate. They have made a significant impact through voting on several key AIPs (Ape Improvement Proposals) in the ApeCoin DAO.
 
 </details>
-
-
 
 <details>
 

@@ -1,11 +1,13 @@
 ---
-description: Creating a Compelling Vision of Your AIP's Impact
 icon: masks-theater
+description: Creating a Compelling Vision of Your AIP's Impact
 ---
 
 # Visualising Success
 
 A successful Ape Improvement Proposal (AIP) isn’t just about having a great idea or a well-thought-out plan—it’s also about conveying a clear, compelling picture of what success looks like. This section will help you craft a vivid and tangible vision of your AIP's intended outcomes, benefits, and the positive changes it will bring to the ApeCoin DAO ecosystem.
+
+<mark style="background-color:yellow;">\[Visuals: Success stock going up? that's what popped in my mind hahaha]</mark>
 
 {% hint style="info" %}
 **Why It Matters**\

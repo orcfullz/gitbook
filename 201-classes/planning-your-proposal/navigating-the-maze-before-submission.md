@@ -5,6 +5,8 @@ description: Overcoming Challenges in Your Proposal Journey
 
 # Navigating the Maze Before Submission
 
+\[Visuals: I guess can just throw in a maze lol]
+
 ## Creating a winning Ape Improvement Proposal (AIP) isn't always a straightforward path—think of it as navigating a complex maze filled with unexpected twists, dead ends, and new opportunities.
 
 **Starting to navigate this maze before you submit your AIP can significantly enhance your chances of success.**

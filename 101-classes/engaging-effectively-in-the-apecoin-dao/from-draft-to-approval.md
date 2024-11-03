@@ -3,9 +3,27 @@ icon: arrow-progress
 description: >-
   Navigate the steps from finalising your draft to gaining approval, building
   community support, and handling feedback.
+cover: ../../.gitbook/assets/From Draft to Approval - Banner.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # From Draft to Approval
+
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 1.jpg" alt=""><figcaption></figcaption></figure>
 
 \[A graph/ icon of the word to represent community]
 

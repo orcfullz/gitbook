@@ -3,9 +3,27 @@ icon: eye
 description: >-
   Master the art of summarising your AIP with an engaging overview that
   highlights its value and impact.
+cover: ../../.gitbook/assets/Crafting - Banner.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Crafting a Compelling Overview
+
+<figure><img src="../../.gitbook/assets/Crafting - 1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## What is the essence of your proposal, and why does it matter to the ApeCoin community?&#x20;
 

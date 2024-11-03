@@ -3,8 +3,8 @@ icon: steak
 description: >-
   Welcome to Stakeholder Analysis 101: Your Guide to Engaging Effectively in the
   ApeCoin DAO
-cover: .gitbook/assets/Module-header (1).png
-coverY: -1
+cover: .gitbook/assets/Engaging Effectively - Banner.jpg
+coverY: 0
 layout:
   cover:
     visible: true
@@ -23,6 +23,8 @@ layout:
 
 # Engaging Effectively in the ApeCoin DAO
 
+<figure><img src=".gitbook/assets/Engaging Effectively - 1.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Your Guide to Engaging Effectively in the ApeCoin DAO
 
 <mark style="background-color:yellow;">\[Visuals: ApeCoin DAO/Ape\_U School logo spinning]</mark>
@@ -34,6 +36,8 @@ Now that you’re mid-way through the 201 modules, it's time to dig deeper into 
 This module brings together insights and strategies to help you master stakeholder identification, mapping, engagement, and feedback. You'll learn how to research and understand your voters, align your proposal with their interests, and build strong support networks within the ApeCoin DAO.&#x20;
 
 <mark style="background-color:yellow;">\[Visuals: Maybe some sort of map or overview of every topic that is to come]</mark>
+
+<figure><img src=".gitbook/assets/Engaging Effectively - 2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Purpose**

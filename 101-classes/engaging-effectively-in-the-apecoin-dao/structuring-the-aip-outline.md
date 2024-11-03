@@ -3,7 +3,7 @@ icon: skeleton-ribs
 description: >-
   Learn to lay a solid foundation for your AIP by creating a clear, concise
   outline to set the stage for a compelling proposal.
-cover: ../../.gitbook/assets/Module-header (1).png
+cover: ../../.gitbook/assets/Structuring AIP - Banner.jpg
 coverY: 0
 layout:
   cover:
@@ -23,9 +23,11 @@ layout:
 
 # Structuring the AIP Outline
 
-## Welcome to Your AIP Draft Journey!&#x20;
-
 <mark style="background-color:yellow;">\[Visuals: Screenshot of other AIP that has been approved?]</mark>
+
+<figure><img src="../../.gitbook/assets/Structuring AIP - 1.jpg" alt=""><figcaption></figcaption></figure>
+
+## Welcome to Your AIP Draft Journey!&#x20;
 
 Creating an ApeCoin Improvement Proposal (AIP) is an exciting step toward contributing to the growth and evolution of the ApeCoin DAO ecosystem. But it can also feel daunting—there’s a lot to cover, and the stakes are high.&#x20;
 
@@ -44,6 +46,8 @@ Think of this guide as your roadmap for the journey ahead. You'll gain a broad u
 
 Our goal? To prepare you for creating a comprehensive and persuasive AIP. By understanding the overall process and knowing what to expect, you'll be better equipped to craft a proposal that resonates with the ApeCoin DAO community.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/Structuring AIP - 2.jpg" alt=""><figcaption></figcaption></figure>
 
 ### **What's Next?**
 

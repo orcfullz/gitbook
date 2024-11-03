@@ -3,11 +3,29 @@ icon: layer-group
 description: >-
   Learn to strategically plan your AIP by setting clear milestones and creating
   an actionable implementation plan.
+cover: ../../.gitbook/assets/Your Blueprint - Banner.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Your Blueprint for AIP Success
 
 <mark style="background-color:yellow;">\[Visual: Road map examples. Phases 1 Phases 2 etc]</mark>
+
+<figure><img src="../../.gitbook/assets/Your Blueprint - 1.jpg" alt=""><figcaption></figcaption></figure>
 
 Building a great AIP isn’t just about having a vision; it’s about creating a clear plan that leads you step-by-step toward that vision. Think of this section as your blueprint—the foundation that will guide you from where you are now to where you want to be. A solid roadmap gives you the confidence to execute your proposal while showing the community that you’ve thought of everything and are ready to deliver.
 

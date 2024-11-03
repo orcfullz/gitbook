@@ -3,11 +3,29 @@ icon: screen-users
 description: >-
   Showcase your team’s expertise and build credibility by effectively presenting
   the people behind your proposal.
+cover: ../../.gitbook/assets/Introducing the Minds - Banner.jpg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Introducing the Minds Behind the Idea
 
 <mark style="background-color:yellow;">\[Visuals: Some sort of big overview image of happy collabrators? Or something? To show the people behind it.]</mark>
+
+<figure><img src="../../.gitbook/assets/Introducing the Minds - 1.jpg" alt=""><figcaption></figcaption></figure>
 
 ## This section is your opportunity to establish credibility and rapport with the community.&#x20;
 

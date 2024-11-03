@@ -3,7 +3,7 @@ icon: input-text
 description: >-
   Discover how to craft a memorable title that captures attention, conveys your
   core idea, and engages the community.
-cover: ../../.gitbook/assets/Module-header (1).png
+cover: ../../.gitbook/assets/Naming Your Vision - Banner.jpg
 coverY: 0
 layout:
   cover:
@@ -22,6 +22,8 @@ layout:
 ---
 
 # Naming Your Vision
+
+<figure><img src="../../.gitbook/assets/Naming Your Vision - 1.jpg" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Core Question**:&#x20;
@@ -65,6 +67,8 @@ Don’t use highly technical terms or internal jargon that might not be understo
 
 ## _**Examples of Good vs. Bad Names:**_
 
+<figure><img src="../../.gitbook/assets/Naming Your Vision - 2.jpg" alt=""><figcaption></figcaption></figure>
+
 <mark style="background-color:yellow;">\[Visuals: I think maybe the section below (Good and Bad names) Can be blown up to be a sign by sign comparision. Think this will make it eye catching enough for people to digest in a glance]</mark>
 
 {% hint style="success" %}
@@ -85,6 +89,8 @@ _Why?_ It’s long-winded, overly complex, and doesn’t get to the point quickl
 
 <mark style="background-color:yellow;">\[Visuals: Maybe something like 5 blank underscores]</mark>
 
+<figure><img src="../../.gitbook/assets/Naming Your Vision - 3.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>Is your proposal name concise (under 5 words)?</summary>
@@ -103,6 +109,8 @@ If not, break it back down into the fundamentals of what you're trying to addres
 
 <mark style="background-color:yellow;">\[Visuals: 2 comparision of good names vs vague naming]</mark>
 
+<figure><img src="../../.gitbook/assets/Naming Your Vision - 4.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>Does the name convey the core idea or objective?</summary>
@@ -118,6 +126,8 @@ If not, what bits are missing? break it down into the most basic fundamentals of
 </details>
 
 <mark style="background-color:yellow;">\[Visuals: 2 Comparison of simple language vs technical jargon]</mark>
+
+<figure><img src="../../.gitbook/assets/Naming Your Vision - 6.jpg" alt=""><figcaption></figcaption></figure>
 
 <details>
 

@@ -168,6 +168,8 @@ By addressing each probing question with these sub-points, you can refine your p
 
 <mark style="background-color:yellow;">\[Visuals: Maybe we can make a compliation of ape profile photos? Or maybe just a. big pen. Might even be able to just change the colour for this section. Should be able to differential visually that this is just an addtional tip.]</mark>
 
+<figure><img src="../../.gitbook/assets/Naming Your Vision - 7.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary>Test different names with a few peers to see which is more memorable.</summary>

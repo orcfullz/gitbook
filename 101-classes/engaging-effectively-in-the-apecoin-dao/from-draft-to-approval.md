@@ -23,6 +23,8 @@ layout:
 
 # From Draft to Approval
 
+
+
 <figure><img src="../../.gitbook/assets/From Draft to Approval - 1.jpg" alt=""><figcaption></figcaption></figure>
 
 \[A graph/ icon of the word to represent community]
@@ -55,6 +57,8 @@ Before hitting 'Submit,' you need to ensure your draft is airtight. This step is
 Consider your AIP like a product launch. You wouldn’t release a new product without thorough checks and refinements. The same applies here—make sure your draft is flawless, engaging, and easy to understand.
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 3.jpg" alt=""><figcaption></figcaption></figure>
+
 <table data-card-size="large" data-view="cards"><thead><tr><th>Tip</th><th>Goal</th><th>Guiding Question</th></tr></thead><tbody><tr><td>Clarity Check</td><td>Ensure every section is clear, concise, and free of jargon.</td><td>Can someone outside of your field understand it?</td></tr><tr><td>Consistency Review</td><td>Check for consistent terminology, formatting, and style throughout your document.</td><td>Does your document maintain a consistent tone and style?</td></tr><tr><td>Adherence to Guidelines</td><td>Review the AIP guidelines one more time to ensure compliance with every requirement.</td><td>Are all the necessary components present and in the correct format?</td></tr><tr><td>Feedback Loop</td><td>Share your draft with a few trusted colleagues or community members to gather feedback before submission.</td><td>Have you received constructive feedback and incorporated it into your final version?</td></tr></tbody></table>
 
 ### Finalising Your Draft: Preparing for Submission
@@ -71,6 +75,8 @@ Before submitting your AIP, you need to ensure it is thoroughly refined and meet
 **How to Approach It**\
 Think of your draft as a polished pitch to potential investors—you need to be clear, concise, and convincing.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 8.jpg" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -104,6 +110,8 @@ Before hitting 'Submit,' you need to ensure your draft is airtight. This step is
 **How to Approach It**\
 Imagine submitting your AIP as launching a new product—it needs to be perfect on release, with all necessary documentation and details readily available.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 5.jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Submission Checklist" %}
@@ -168,6 +176,8 @@ Navigating the review process is crucial to getting your proposal approved. It i
 Think of the review process as a series of gates, each requiring a different approach. Be ready to adapt and respond at every step, whether it's addressing community feedback, aligning with the DAO's strategic goals, or mobilizing votes. The more you know about what's coming, the better prepared you'll be to clear every hurdle smoothly.
 {% endhint %}
 
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 6.jpg" alt=""><figcaption></figcaption></figure>
+
 {% tabs %}
 {% tab title="Informal Review" %}
 **Engage with Community Feedback:** Begin by posting your draft in the ApeCoinDAO forum or relevant community spaces. Actively encourage feedback and constructive criticism from the community.
@@ -204,6 +214,8 @@ Building community support is a strategic process that involves more than just a
 **How to Approach It**\
 Think of your community outreach like running a campaign. It requires consistent messaging, engaging content, and targeted outreach to the right people. Make sure you have a plan in place that covers all of these aspects before you start reaching out.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 4.jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Direct Outreach" %}
@@ -254,6 +266,8 @@ Rejections or requests for revisions aren’t the end; they're an opportunity to
 **How to Approach It**\
 Approach this process like a feedback loop designed to make your proposal stronger. Be open, receptive, and strategic in how you interpret the feedback. Use it as a tool to elevate your proposal and make it even more aligned with the community’s expectations.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 7.jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title="Feedback Analysis" %}
@@ -312,6 +326,8 @@ Congratulations! Your AIP has been approved, but the journey doesn’t end here.
 **How to Approach It**\
 Think of this phase as the beginning of a new chapter, where maintaining transparency and communication is key. You've gained trust through the approval process; now it's time to keep that trust by actively engaging with your supporters, delivering on milestones, and sharing your progress. Reflect on how you can use this experience to not only achieve your goals but also contribute back to the DAO by sharing your insights and learnings.
 {% endhint %}
+
+<figure><img src="../../.gitbook/assets/From Draft to Approval - 2.jpg" alt=""><figcaption></figcaption></figure>
 
 {% tabs %}
 {% tab title=" Implementation Kick-Off: Start Strong!" %}

@@ -49,6 +49,8 @@ What would you say? Focus on the “why” of your proposal—the unique value o
 
 <mark style="background-color:yellow;">\[Added bold 1 liner: "Explain the problem!" "Tell us why this solution is different" "Get to the point"]</mark>
 
+<figure><img src="../../.gitbook/assets/Crafting - 2.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary><strong>What problem does it solve?</strong></summary>
@@ -77,6 +79,8 @@ Try to create a one-sentence version of your proposal. If you can't, it might no
 
 <mark style="background-color:yellow;">\[Added bold 1 liner: "Talk long term, talk future" "Tell us the impact!" "Potential danger/Risk if we don't take action now!"]</mark>
 
+<figure><img src="../../.gitbook/assets/Crafting - 3.jpg" alt=""><figcaption></figcaption></figure>
+
 <details>
 
 <summary><strong>What’s the bigger picture?</strong></summary>
@@ -104,6 +108,8 @@ Consider outlining the potential consequences of not implementing your proposal.
 ### What are the expected outcomes or benefits?
 
 <mark style="background-color:yellow;">\[Added bold 1 liner: "Talk long term, talk future" "Tell us the impact!" "Potential danger/Risk if we don't take action now!"]</mark>
+
+<figure><img src="../../.gitbook/assets/Crafting - 4.jpg" alt=""><figcaption></figcaption></figure>
 
 <details>
 
@@ -139,6 +145,8 @@ If your proposal requires funding, explain how the benefits justify the cost. Ma
 <mark style="background-color:yellow;">\[AIP-209 Same as AIP-301, but 8 months later]</mark>
 
 <mark style="background-color:yellow;">\[AIP 317 Page does not exist]</mark>
+
+<figure><img src="../../.gitbook/assets/Crafting - 5.jpg" alt=""><figcaption></figcaption></figure>
 
 <table data-card-size="large" data-view="cards"><thead><tr><th>Focus Point	</th><th>Example</th><th>Why it's worth referencing</th><th>Source</th></tr></thead><tbody><tr><td>Use Clear, Concise Language</td><td>AIP-112</td><td>This proposal, which passed with a 94.5% vote, kept the description clear and straightforward. Essential details about the goals and benefits were included without overloading with jargon or unnecessary complexity. This clarity helped voters quickly understand the proposal's purpose and impact.</td><td><a href="https://forum.apecoin.com/t/10-week-wait-for-approved-aip-funds/10381">https://forum.apecoin.com/t/10-week-wait-for-approved-aip-funds/10381</a></td></tr><tr><td>Provide a Compelling Overview</td><td>AIP-301</td><td>The proposal demonstrated a strong summary by directly addressing what it would achieve and its contribution to the ApeCoin ecosystem. It made clear who it targeted, what changes or improvements it would bring, and why they were important, helping to convince voters of its value from the start.</td><td><a href="https://forum.apecoin.com/t/aip-301-eesee-apecoin-a-collaboration-for-community-engagement-and-nft-accessibility/16706?page=2">https://forum.apecoin.com/t/aip-301-eesee-apecoin-a-collaboration-for-community-engagement-and-nft-accessibility/16706?page=2</a></td></tr><tr><td>Emphasise Impact</td><td>AIP-209</td><td>Focused on how the proposal would accelerate growth and bring additional value to the community. It highlighted both short-term and long-term impacts, clearly defining benefits to the ApeCoin ecosystem. This approach appealed to voters looking for alignment with broader DAO goals.</td><td><a href="https://forum.apecoin.com/t/aip-209-ape-accelerator-powered-by-apecoin/10818">https://forum.apecoin.com/t/aip-209-ape-accelerator-powered-by-apecoin/10818</a></td></tr><tr><td>Be Transparent About Costs and Benefits</td><td>AIP-317</td><td>The description effectively detailed the financial aspects, including an overview of costs, benefits, and expected return on investment. This transparency helped voters understand the proposal's financial impact on the DAO.</td><td><a href="https://forum.apecoin.com/t/aip-317-budget-impact-transparency-report/12345">https://forum.apecoin.com/t/aip-317-budget-impact-transparency-report/12345</a></td></tr></tbody></table>
 
